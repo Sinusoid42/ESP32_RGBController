@@ -54,8 +54,8 @@ int cam_blue_value = 0;
 
 //Network ID
 
-const char* ssid = "Bens WLAN 2.4GHz";
-const char* password = "10858292375620797843";
+const char* ssid = "<NETWORK SSID>";
+const char* password = "<NETWORK PASSWORD>";
 
 
 // Set web server port number to 80
